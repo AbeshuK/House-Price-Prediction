@@ -17,7 +17,7 @@ The project demonstrates a structured approach to a regression problem, moving f
 * **Inference Pipeline:** A ready-to-use Python function that accepts raw new data and passes it through the preprocessing and modeling steps to output a final price prediction.
 
 ## 🛠️ Technologies & Libraries Used
-* **Python 3.12.4
+* **Python 3.12.4**
 * **Pandas & NumPy:** Data manipulation and numerical operations.
 * **Scikit-Learn:** Machine learning models, pipelines, metrics, and cross-validation.
 * **Matplotlib & Seaborn:** Data visualization.
